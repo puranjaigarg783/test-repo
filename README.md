@@ -1,2 +1,2 @@
-# test-repo
-A test repository with a README file
+# Test Repository
+This is a test repository.
